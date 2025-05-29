@@ -26,3 +26,116 @@ Developers could now use the same language on both frontend and backend, streaml
 The web had shifted from *"wait in line"* to *"instant service."*  
 
 Node.js didn't just optimize performance—it redefined what was possible. And that, my friends, is how a simple runtime changed the internet forever.
+
+
+# 🚀 Node.js Developer Quickstart Guide
+
+---
+
+## 📌 Overview & Working of Node.js
+
+**Node.js** is a JavaScript runtime built on Chrome's V8 engine that lets you run JavaScript on the server.
+
+### ✨ Key Concepts
+- **Single-threaded, event-driven** architecture
+- **Non-blocking I/O operations** make it ideal for scalable, real-time applications
+- Executes JavaScript outside the browser (on the server)
+
+📖 **Learn More**: [Official Node.js Docs](https://nodejs.org/en/docs)
+
+💻 **Try it online**:  
+▶️ [Node.js Basics Lab on Replit](https://replit.com/@techwithtim/Nodejs-Introduction)  
+▶️ [Node.js Playground on JSFiddle](https://jsfiddle.net/user/NodePlaygrounds/fiddles/)
+
+---
+
+## 📦 NPM (Node Package Manager)
+
+NPM is the default package manager for Node.js. It allows you to install, update, and manage external libraries (packages).
+
+### 🛠 Common Commands
+```bash
+npm init         # Initializes a new Node.js project
+npm install xyz  # Installs a package named 'xyz'
+npm list         # Lists installed packages
+````
+
+📦 **NPM Package Registry**: [https://www.npmjs.com](https://www.npmjs.com)
+
+🧪 **Interactive Lab**:
+▶️ [NPM Basics Lab on StackBlitz](https://stackblitz.com/edit/node-npm-demo)
+
+---
+
+## 🖥 Environment Setup & `package.json`
+
+The `package.json` file manages metadata and dependencies for your Node project.
+
+### 📝 Example `package.json`
+
+```json
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+```
+
+💻 **Try it live**:
+▶️ [Interactive Node Environment with package.json - CodeSandbox](https://codesandbox.io/s/node-packagejson-demo-3lr0h?file=/package.json)
+
+---
+
+## 📚 Node Modules & HTTP Module
+
+### 🧱 Node Modules
+
+Node.js uses modular programming. You can use built-in modules or create your own.
+
+### 🌐 HTTP Module Example
+
+```js
+// server.js
+const http = require('http');
+
+const server = http.createServer((req, res) => {
+  res.write('Hello World from Node.js!');
+  res.end();
+});
+
+server.listen(3000, () => {
+  console.log('Server running at http://localhost:3000');
+});
+```
+📖 **Explore Built-in Modules**: [Node.js Built-in Modules](https://nodejs.org/api/)
+
+💻 **Run it online**:
+▶️ [Basic HTTP Server Lab on Replit](https://replit.com/@mohitkr05/Node-HTTP-Server?v=1)
+
+---
+
+## 📦 Bonus: Express.js for Building APIs
+
+Express is a minimalist Node.js framework to quickly build web apps and REST APIs.
+
+```bash
+npm install express
+```
+
+```js
+const express = require('express');
+const app = express();
+
+app.get('/', (req, res) => res.send('Hello from Express!'));
+
+app.listen(3000, () => console.log('Server running on http://localhost:3000'));
+```
+
+▶️ [Try Express.js Online (CodeSandbox)](https://codesandbox.io/s/express-hello-world-g6gjj)
+
+
+
+
