@@ -1,0 +1,123 @@
+# LeetCode Practice Problems by Topic & Difficulty
+
+Each section presents **LeetCode problems** grouped by **topic** and **difficulty**.
+
+---
+
+## 1. Strings
+
+### Easy
+1. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+2. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+4. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+5. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+6. [Add Strings](https://leetcode.com/problems/add-strings/)
+7. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+8. [Detect Capital](https://leetcode.com/problems/detect-capital/)
+9. [Reverse String](https://leetcode.com/problems/reverse-string/)
+10. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+11. [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
+12. [Buddy Strings](https://leetcode.com/problems/buddy-strings/)
+13. [To Lower Case](https://leetcode.com/problems/to-lower-case/)
+14. [Goat Latin](https://leetcode.com/problems/goat-latin/)
+15. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
+
+### Medium
+1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+2. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+3. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+4. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+6. [Count and Say](https://leetcode.com/problems/count-and-say/)
+7. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+8. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+9. [Simplify Path](https://leetcode.com/problems/simplify-path/)
+10. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+11. [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/)
+12. [Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
+13. [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
+14. [Partition Labels](https://leetcode.com/problems/partition-labels/)
+15. [Rotate String](https://leetcode.com/problems/rotate-string/)
+16. [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+17. [Decode String](https://leetcode.com/problems/decode-string/)
+18. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+19. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+20. [Word Pattern](https://leetcode.com/problems/word-pattern/)
+
+### Hard
+1. [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+2. [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
+3. [Text Justification](https://leetcode.com/problems/text-justification/)
+4. [Word Search II](https://leetcode.com/problems/word-search-ii/)
+5. [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+6. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+7. [Edit Distance](https://leetcode.com/problems/edit-distance/)
+8. [Regex Matching](https://leetcode.com/problems/regular-expression-matching/)
+9. [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
+10. [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)
+11. [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
+12. [Serialize and Deserialize Word Dictionary](https://leetcode.com/problems/serialize-and-deserialize-word-dictionary/)
+13. [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
+14. [Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/)
+15. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+
+---
+
+## 2. Arrays
+
+### Easy
+1. [Two Sum](https://leetcode.com/problems/two-sum/)
+2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+3. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+4. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+5. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+6. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+7. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+8. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+9. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+10. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+11. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+12. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+13. [Height Checker](https://leetcode.com/problems/height-checker/)
+14. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+15. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+
+### Medium
+1. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+2. [3Sum](https://leetcode.com/problems/3sum/)
+3. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+4. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+5. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+6. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+7. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+8. [4Sum](https://leetcode.com/problems/4sum/)
+9. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+10. [Rotate Image](https://leetcode.com/problems/rotate-image/)
+11. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+12. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+13. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+14. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+15. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+16. [Game of Life](https://leetcode.com/problems/game-of-life/)
+17. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+18. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+19. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+20. [Binary Search](https://leetcode.com/problems/binary-search/)
+
+### Hard
+1. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+3. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+4. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+5. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
+6. [Minimum Window Subarray](https://leetcode.com/problems/sliding-window-median/)
+7. [Candy](https://leetcode.com/problems/candy/)
+8. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+9. [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+10. [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+11. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
+12. [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
+13. [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
+14. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+15. [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
